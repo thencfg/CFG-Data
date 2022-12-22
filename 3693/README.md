@@ -53,4 +53,4 @@ We have affinity purified the lectin on a mannosylated resin and showed mannose 
 
 ## Publication
 
-Not Published
+Meiers, J.; Dastbaz, J.; Adam, S.; Rasheed, S.; Kirsch, S. H.; Meiser, P.; Gross, P.*; Müller, R.*; Titz, A.* Pineapple Lectin AcmJRL binds SARS-CoV-2 Spike Protein in a carbohydrate-dependent fashion, ChemBioChem, 2022, [https://doi.org/10.1002/cbic.202200463](https://doi.org/10.1002/cbic.202200463)
