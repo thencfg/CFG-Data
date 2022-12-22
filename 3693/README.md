@@ -38,9 +38,9 @@ Ananas comosus
 
 ### Primary Sequence:
 
-lsglvklglw ggnegtlqdi dghptrltki virsahaida Iqfdyvedgk tfaagqwggn
-g61gksdtie fqpgeyliai kgttgalgav tnlvrsltfi snmrtygpfg lehgtpfsvp
-vas121griv afygrfgslv dafgiylmpy
+1sglvklglw ggnegtlqdi dghptrltki virsahaida lqfdyvedgk tfaagqwggn
+g61gksdtie fqpgeyliai kgttgalgav tnlvrsltfi snmrtygpfg lehgtpfsvp
+vas121griv afygrfgslv dafgiylmpy
 
 ### Comments:
 
